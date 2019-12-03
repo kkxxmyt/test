@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+	
+	int a=1+23;
+	printf("%d\n", a);
+    printf("%f\n",10.2+52);
+	
+	return 0;
+}
+
